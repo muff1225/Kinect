@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "camouflage", "camouflage\camouflage.vcxproj", "{ED59BAD2-C530-4048-92A0-498CA13939E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED59BAD2-C530-4048-92A0-498CA13939E5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED59BAD2-C530-4048-92A0-498CA13939E5}.Debug|Win32.Build.0 = Debug|Win32
+		{ED59BAD2-C530-4048-92A0-498CA13939E5}.Release|Win32.ActiveCfg = Release|Win32
+		{ED59BAD2-C530-4048-92A0-498CA13939E5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
