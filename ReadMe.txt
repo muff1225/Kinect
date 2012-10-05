@@ -1,10 +1,10 @@
 = camouflage
 === Requirements
-    EOpenNI
-    ENITE
-    EOpenCV2.2
+    -> OpenNI
+    -> NITE
+    -> OpenCV2.2
 
 
 = KinectRokuroShutter
 === Requirements
-    •	Kinect for Windows SDK v1.0
+    -> Kinect for Windows SDK v1.0
